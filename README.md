@@ -18,7 +18,7 @@ A modern web application built using **React + Vite**, designed for performance,
 
 * **Frontend:** React.js
 * **Build Tool:** Vite
-* **Styling:** CSS / Tailwind (if used)
+* **Styling:** CSS / Tailwind
 * **Deployment:** Vercel
 
 ---
