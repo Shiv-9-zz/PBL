@@ -91,7 +91,7 @@ The `vercel.json` file uses rewrites to route all paths to `index.html`, ensurin
   GitHub: https://github.com/Shiv-9-zz
 
 * **Aditya Saraswat**
-  GitHub: https://github.com/adityasx69/NexusX
+  GitHub: https://github.com/adityasx69
 
 ## 📜 License
 
